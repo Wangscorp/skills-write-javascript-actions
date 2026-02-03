@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Wangscorp/skills-write-javascript-actions#readme",
   "dependencies": {
-    "@actions/core": "^3.0.0",
+    "@actions/core": "^1.11.1",
     "@vercel/ncc": "^0.38.4",
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
